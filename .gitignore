@@ -69,3 +69,4 @@ generated/*
 !generated/.htaccess
 .DS_Store
 setup/*
+dev/*
